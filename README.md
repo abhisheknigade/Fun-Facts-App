@@ -1,4 +1,4 @@
-                                                                                                             -- Fun Facts App --
+                                                               -- Fun Facts App --
 
 
 
