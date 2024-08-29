@@ -1,8 +1,8 @@
--- Fun Facts App --
+                                                                                                             -- Fun Facts App --
 
 
 
-Here's a simple explanation you can use for your GitHub project description:
+
 
 Fun Facts App
 Description:
